@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.davidcarrerojimenez_ej2.pru_ud4.conversorTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.057 s -- in com.mycompany.davidcarrerojimenez_ej2.pru_ud4.conversorTest
