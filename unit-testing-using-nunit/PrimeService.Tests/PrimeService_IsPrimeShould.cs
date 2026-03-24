@@ -2,7 +2,7 @@
 using Prime.Services;
 namespace Prime.UnitTests.Services
 {
-    [TextFixture]
+    [TestFixture]
     public class PrimeService_IsPrimeShould
     {
         private PrimeService _primeService;
